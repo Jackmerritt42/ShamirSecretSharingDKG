@@ -67,28 +67,6 @@ Polynomial curves for each participant.
 
 A scatter plot of shares distributed by each participant.
 
-Code Structure
-shamir_secret_sharing.py:
-
-Core implementation of Shamir's Secret Sharing and the Boneh-Franklin DKG protocol.
-
-Includes classes for ShamirSecretSharing and Participant.
-
-Functions for visualization and simulation.
-
-test_shamir_secret_sharing.py:
-
-Unit tests for the SSS and DKG implementations.
-
-README.md:
-
-Project documentation (this file).
-
-requirements.txt:
-
-List of Python dependencies.
-
-
 Acknowledgments
 Shamir's Secret Sharing: Based on the work of Adi Shamir.
 

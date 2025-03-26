@@ -1,5 +1,7 @@
 # ShamirSecretSharingDKG
 
+Video walkthrough: https://www.youtube.com/watch?v=981Zi_hh7Eg&ab_channel=JackMerritt
+
 A Python implementation of **Shamir's Secret Sharing (SSS)** and the **Boneh-Franklin Distributed Key Generation (DKG)** protocol. This project explores the practical and theoretical implications of secure distributed key management, with a focus on threshold cryptography and fault tolerance.
 
 ## Features
